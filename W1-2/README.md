@@ -20,6 +20,6 @@ npx hardhat run scripts/deploy.js
 ![image](https://github.com/cengsh/upchaincamp/blob/main/W1-2/verify.png)
 
 ### 编译_测试_部署_开源图：
-![image](https://github.com/cengsh/upchaincamp/blob/main/W1-2/编译_测试_部署_开源.png.png)
+![image](https://github.com/cengsh/upchaincamp/blob/main/W1-2/%E7%BC%96%E8%AF%91_%E6%B5%8B%E8%AF%95_%E9%83%A8%E7%BD%B2_%E5%BC%80%E6%BA%90.png)
 
 
