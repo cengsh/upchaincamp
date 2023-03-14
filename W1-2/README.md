@@ -24,7 +24,7 @@ npx hardhat run scripts/deploy.js
 
 
 ### 抄了个作业，参考了@Yaoy同学的测试代码，后续会加强基础知识的学习。
-![image](https://github.com/cengsh/upchaincamp/blob/main/W1-2/)
+![image](https://github.com/cengsh/upchaincamp/blob/main/W1-2/%E6%B5%8B%E8%AF%95.png)
 
 
 
