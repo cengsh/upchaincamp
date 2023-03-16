@@ -24,8 +24,8 @@ contract Bank {
       deposits[msg.sender] += msg.value;
     }
 
-    function balance() public view returns (uint) {
-        return deposits[msg.sender]; 
+    function balances()external view returns(uint256){
+        return address(this).balance;
     }
     function withdrawAll() public {
         uint amount = address(this).balance;
